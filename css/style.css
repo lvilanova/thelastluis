@@ -4122,7 +4122,7 @@ p.footer-address {
 /*# sourceMappingURL=style.css.map */
 
 
-/*my stykles*/
+/*Custom styles by me*/
 
 .caption-image a{
   font-size:12px;
@@ -4152,4 +4152,8 @@ p.footer-address {
 
 .weight{
   font-weight:700;
+}
+
+.rev_slider img, .tp-simpleresponsive .slider1__logo-intro{
+  
 }
