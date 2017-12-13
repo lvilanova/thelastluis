@@ -3249,7 +3249,7 @@ input.searchbox:focus {
 /* Intro
 -------------------------------------------------------*/
 .section-wrap.intro {
-  padding: 80px 0 80px!important;
+  padding: 80px 0 50px!important;
 }
 
 .intro.style-2 .intro-text p {
