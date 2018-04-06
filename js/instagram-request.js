@@ -19,8 +19,6 @@ var infoUser = new Vue({
 		  .then(function(response){
 		 	
 		 vm.myUser=response.data.data;
-		 console.log(vm.myUser);
-
 
 		  }); 
 
@@ -42,9 +40,6 @@ var mediaPost = new Vue({
 		  .then(function(response){
 		 	
 		 vm.images=response.data.data;
-		    
-		     // console.log(response.data.data[0].caption.text);
-
 
 		  }); 
 
